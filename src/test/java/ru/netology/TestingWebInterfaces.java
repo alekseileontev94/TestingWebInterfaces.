@@ -12,7 +12,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-public class WebInterfaceTest {
+public class TestingWebInterfaces {
     private WebDriver driver;
 
     @BeforeAll
